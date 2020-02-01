@@ -1,9 +1,9 @@
 # library-system
 Create a library system
 
-Based on an old [Object Mentor's Course](https://github.com/unclebob/PPP) by Uncle Bovb
+Based on an old [Object Mentor's Course](https://github.com/unclebob/PPP) by Uncle Bob
 
-Use Cases:
+User Stories:
 - Librarians can register patrons
 - Librarians can add copies of a book to the library
 - Patrons can borrow a copy of a book from the library
