@@ -1,7 +1,7 @@
 # library-system
 Create a library system
 
-Based on an [Object Mentor's Course](https://github.com/clean-code-projects/library-system.git)
+Based on an old [Object Mentor's Course](https://github.com/unclebob/PPP) by Uncle Bovb
 
 Use Cases:
 - Librarians can register patrons
